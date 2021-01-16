@@ -1,0 +1,22 @@
+a {
+   color: blue;
+}
+
+body {
+    color: navy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    color: white;
+    background-color: #009;
+    font-size: 2em;
+}
+
+p {
+    line-height: 1.5;
+    text-align: center;
+}
+}
