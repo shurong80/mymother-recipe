@@ -2,7 +2,12 @@
 
 This website is for everyone who is interested in making simple dishes. 
 
-Visit this website <https://shurong80.github.io/mymother-recipe/recipe/index.html> for step-by-step guidance. Do check out the website for upcoming updates.
+You are welcome to make contributions to this repository by sharing your secret recipes or cooking tips for beginners. 
+
+I look forward to building this repository with you.
+
+
+Visit this website <https://shurong80.github.io/mymother-recipe/recipe/index.html> for step-by-step guidance. Do check out this website for updates.
 
 ![](https://github.com/shurong80/mymother-recipe/blob/main/recipe/1_Cabbage.jpg)
 
